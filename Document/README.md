@@ -1,4 +1,4 @@
-Wdgc Core 0.14.0
+Wdgc Core 1.0.0
 =====================
 
 This is the official reference wallet for Wdgc digital currency and comprises the backbone of the Wdgc peer-to-peer network. You can [download Wdgc Core](https://www.wdgc.org/downloads/) or [build it yourself](#building) using the guides below.

@@ -1,4 +1,4 @@
-Wdgc Core 0.14.0
+Wdgc Core 1.0.0
 =====================
 
 Intro
